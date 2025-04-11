@@ -1,0 +1,6 @@
+E:\Developing\C#\Exercises\Exercises\obj\Debug\Exercises.csproj.AssemblyReference.cache
+E:\Developing\C#\Exercises\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+E:\Developing\C#\Exercises\Exercises\bin\Debug\Exercises.exe
+E:\Developing\C#\Exercises\Exercises\bin\Debug\Exercises.pdb
+E:\Developing\C#\Exercises\Exercises\obj\Debug\Exercises.exe
+E:\Developing\C#\Exercises\Exercises\obj\Debug\Exercises.pdb
